@@ -6,7 +6,7 @@ function Hero() {
       <div className="hero-inner">
         <h1 className="hero-title">Sulit Design Studio</h1>
         <p className="hero-tagline">
-          Soft, modern websites for real small businesses.
+        Websites in any style you need, created to support your small business.
         </p>
         <p className="hero-subtitle">
           I create friendly, aesthetic websites that help beauty, service, and
