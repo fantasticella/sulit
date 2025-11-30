@@ -4,28 +4,24 @@ function AboutPreview() {
       <div className="about-inner">
         <h2>About Sulit</h2>
         <p>
-          Sulit Design Studio was created to help real small businesses get
-          online with clean, aesthetic websites that feel approachable, warm,
-          and modern.
+        Sulit Design Studio was created to help real small businesses get online with websites that match their style — whether you want something modern, minimal, bold, cute, elegant, or completely custom.
         </p>
         <p>
-          I focus on soft colors, friendly layouts, and simple user experiences
-          that make your business look good and feel trustworthy — without
-          overcomplicated tech or agency pricing.
+        I build based on your vision and what your business needs, while keeping the process simple, affordable, and stress-free.
         </p>
 
         <div className="about-values">
           <div>
-            <h4>Soft Aesthetic</h4>
-            <p>Pastels, gentle shapes, and layouts that feel calming.</p>
+            <h4>Custom Style</h4>
+            <p>Any look you want — modern, colorful, bold, aesthetic, professional, or completely unique.</p>
           </div>
           <div>
             <h4>Real Functionality</h4>
-            <p>Sites built around what your customers actually do.</p>
+            <p>Sites built around what your customers actually need: clear navigation, mobile-friendly pages, booking tools, and contact forms.</p>
           </div>
           <div>
             <h4>Affordable</h4>
-            <p>Design that feels premium while staying budget-friendly.</p>
+            <p>Professional quality without agency pricing..</p>
           </div>
         </div>
       </div>

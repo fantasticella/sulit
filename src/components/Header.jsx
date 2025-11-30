@@ -8,7 +8,7 @@ function Header() {
     <header className="header">
       <div className="header-inner">
         <div className="logo" onClick={() => scrollToId("hero")}>
-          <span className="logo-mark">☺</span>
+          <span className="logo-mark">:)</span>
           <span className="logo-text">Sulit Design Studio</span>
         </div>
         <nav className="nav">

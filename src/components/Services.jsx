@@ -10,13 +10,12 @@ function Services() {
         <article className="card card--service">
           <h3>Web Design</h3>
           <p>
-            Clean, mobile-friendly websites made for small business owners who
-            want something simple, beautiful, and functional.
+          Clean, mobile-friendly websites for small business owners who want something simple, beautiful, and custom to their brand.
           </p>
           <ul>
             <li>1–5 page website</li>
             <li>Mobile-friendly layout</li>
-            <li>Soft pastel design</li>
+            <li>Any design you want</li>
             <li>Contact forms &amp; social links</li>
             <li>Basic SEO &amp; Google setup</li>
           </ul>
@@ -26,8 +25,7 @@ function Services() {
         <article className="card card--service">
           <h3>Branding + Logo</h3>
           <p>
-            Aesthetic color palettes, logos, and visual identity that makes your
-            business feel soft, modern, and memorable.
+          Custom color palettes, logos, and visual identity that match the exact style you want — from modern and minimal to colorful and creative.
           </p>
           <ul>
             <li>Logo (1–2 variations)</li>
@@ -40,8 +38,7 @@ function Services() {
         <article className="card card--service">
           <h3>Website Refresh</h3>
           <p>
-            Turn your old site into something cute, clean, and aligned with your
-            current brand.
+          Update your old website with a cleaner layout, new styling, better mobile experience, and a design that fits your current brand.
           </p>
           <ul>
             <li>Updated layout &amp; styling</li>

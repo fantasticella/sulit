@@ -9,8 +9,8 @@ function Hero() {
         Websites in any style you need, created to support your small business.
         </p>
         <p className="hero-subtitle">
-          I create friendly, aesthetic websites that help beauty, service, and
-          local businesses stand out online — without the stress or big-agency
+          We create clean, modern and mobile-friendly websites in any style you need. We help beauty, service, and
+          local businesses stand out online, without the stress or big-agency
           prices.
         </p>
         <div className="hero-actions">

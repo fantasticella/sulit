@@ -4,7 +4,7 @@ function Contact() {
       <div className="contact-inner">
         <h2>Start Your Project</h2>
         <p>
-          Let’s create a soft, modern website for your business. I’ll reply
+          Let’s create your ready-to-publish website with real results. I’ll reply
           within 24–48 hours with next steps.
         </p>
 

@@ -177,7 +177,7 @@ body {
 }
 
 .hero-decor--smiley::before {
-  content: "☺";
+  content: ":)";
   font-size: 18px;
 }
 
